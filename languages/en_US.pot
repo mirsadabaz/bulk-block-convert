@@ -1,0 +1,200 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Project-Id-Version: Bulk Block Converter\n"
+"POT-Creation-Date: 2019-12-31 10:29-0500\n"
+"PO-Revision-Date: 2019-12-31 10:29-0500\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2.4\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: bulk-block-converter.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.min.js\n"
+
+#: bulk-block-converter.php:105
+msgid "Bulk Block Conversion"
+msgstr ""
+
+#: bulk-block-converter.php:105
+msgid "Block Conversion"
+msgstr ""
+
+#: bulk-block-converter.php:127
+msgid "Server error occured!"
+msgstr ""
+
+#: bulk-block-converter.php:128 bulk-block-converter.php:237
+#, php-format
+msgid "Scanning... %s%%"
+msgstr ""
+
+#: bulk-block-converter.php:129 bulk-block-converter.php:303
+#, php-format
+msgid "Converting... %s%%"
+msgstr ""
+
+#: bulk-block-converter.php:130
+msgid "All posts successfully converted!"
+msgstr ""
+
+#: bulk-block-converter.php:131
+msgid ""
+"You are about to convert all classic posts to blocks. These changes are "
+"irreversible. Convert all classic posts to blocks?"
+msgstr ""
+
+#: bulk-block-converter.php:132
+msgid "Converting..."
+msgstr ""
+
+#: bulk-block-converter.php:133
+msgid "Converted"
+msgstr ""
+
+#: bulk-block-converter.php:134
+msgid "Failed"
+msgstr ""
+
+#: bulk-block-converter.php:160
+msgid ""
+"This process will scan your post types for any content that may be converted "
+"to blocks. Then, you can choose to convert posts to blocks individually, or "
+"bulk convert all content to blocks."
+msgstr ""
+
+#: bulk-block-converter.php:161
+msgid "Please note:"
+msgstr ""
+
+#: bulk-block-converter.php:161
+msgid ""
+"Converting content to blocks is irreversible. We highly recommend creating a "
+"backup before conversion."
+msgstr ""
+
+#: bulk-block-converter.php:163
+msgid "Scan Content"
+msgstr ""
+
+#: bulk-block-converter.php:166
+msgid "Bulk Convert All"
+msgstr ""
+
+#: bulk-block-converter.php:175
+msgid "No posts found."
+msgstr ""
+
+#: bulk-block-converter.php:211 bulk-block-converter.php:252
+#: bulk-block-converter.php:467
+msgid "Forbidden!"
+msgstr ""
+
+#: bulk-block-converter.php:217
+msgid ""
+"An error occurred while scanning! Someone added or deleted one or more posts "
+"during the scanning process. Try again."
+msgstr ""
+
+#: bulk-block-converter.php:278
+msgid ""
+"An error occurred while bulk converting! Someone added or deleted one or "
+"more posts during the converting process. Try again."
+msgstr ""
+
+#: bulk-block-converter.php:400
+msgid "Scan results"
+msgstr ""
+
+#: bulk-block-converter.php:401
+msgid "The following post types are ready for conversion:"
+msgstr ""
+
+#: bulk-block-converter.php:423
+msgid "Search"
+msgstr ""
+
+#: bulk-block-converter.php:440
+msgid "All"
+msgstr ""
+
+#: bulk-block-converter.php:441
+msgid "Published"
+msgstr ""
+
+#: bulk-block-converter.php:442
+msgid "Future"
+msgstr ""
+
+#: bulk-block-converter.php:443
+msgid "Drafts"
+msgstr ""
+
+#: bulk-block-converter.php:444
+msgid "Private"
+msgstr ""
+
+#: bulk-block-converter.php:551
+msgid "Post"
+msgstr ""
+
+#: bulk-block-converter.php:552
+msgid "Posts"
+msgstr ""
+
+#: bulk-block-converter.php:685
+msgid "No items available."
+msgstr ""
+
+#: bulk-block-converter.php:696
+msgid "Title"
+msgstr ""
+
+#: bulk-block-converter.php:697
+msgid "Post Type"
+msgstr ""
+
+#: bulk-block-converter.php:698
+msgid "Action"
+msgstr ""
+
+#: bulk-block-converter.php:766 bulk-block-converter.php:791
+msgid "Convert"
+msgstr ""
+
+#: bulk-block-converter.php:855
+msgid "Filter"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "Bulk Block Converter"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "https://url.to.plugin.site/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"Bulk convert the content of pages and posts to Gutenberg blocks. This plugin "
+"scans for pages and posts that contain content within the \"Classic Block\". "
+"Then, you may convert each post or page to blocks indivdually or using the "
+"bulk convert option."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Organic Themes"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://organicthemes.com"
+msgstr ""
