@@ -10,8 +10,7 @@
  * Plugin URI: https://url.to.plugin.site/
  * Description: Convert all classic content to blocks. An extremely useful tool when upgrading to the WordPress 5 Gutenberg editor.
  * Version: 1.0.1
- * Author: Organic Themes
- * Author URI: https://organicthemes.com
+ * Author: Mirsad Abaz
  * License: GPL-2.0+
  * License URI: http://www.gnu.org/licenses/gpl-2.0.txt
  * Text Domain: bbconv
