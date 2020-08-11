@@ -7,7 +7,7 @@
  *
  * @wordpress-plugin
  * Plugin Name: Bulk Block Converter
- * Plugin URI: https://url.to.plugin.site/
+ * Plugin URI: https://github.com/mirsadabaz/bulk-block-convert
  * Description: Convert all classic content to blocks. An extremely useful tool when upgrading to the WordPress 5 Gutenberg editor.
  * Version: 1.0.1
  * Author: Mirsad Abaz
