@@ -27,7 +27,7 @@ define( 'BBCONV_FOLDER', plugin_dir_path( __FILE__ ) );    // Plugin folder
 define( 'BBCONV_URL', plugin_dir_url( __FILE__ ) );        // Plugin URL
 
 // post types and statuses plugin work with
-define( 'BBCONV_TYPES', serialize( array( 'post', 'page', 'games' ) ) );
+define( 'BBCONV_TYPES', serialize( array( 'post', 'page', 'games', 'casinos' ) ) );
 define( 'BBCONV_STATUSES', serialize( array( 'publish', 'future', 'draft', 'private' ) ) );
 
 // meta key and value for posts inexing
